@@ -12,4 +12,6 @@ git
 충돌을 없애는 방법
 1. 노가다
 2. pull받고 작업
-3. stash (VCS - stach changes...)
+3. stash (VCS - Stach Changes... - UnStash Change...)
+
+stash test
